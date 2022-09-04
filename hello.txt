@@ -1,7 +1,7 @@
 hello git! hello yanjiabo!222
 hello git! hello yanjiabo!master text
 hello git! hello yanjiabo!
-hello git! hello yanjiabo!hot-fix text
+hello git! hello yanjiabo!
 hello git! hello yanjiabo!
 hello git! hello yanjiabo!
 hello git! hello yanjiabo!
